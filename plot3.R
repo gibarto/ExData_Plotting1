@@ -1,4 +1,4 @@
-## Graph Global Active Power across time for Household Power
+## Graph Sub-metered usage across time for Household Power
 ## Consumption dataset for 2007-02-01 to 2007-02-02
 
 ## Get dataset and subset
